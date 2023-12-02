@@ -1,0 +1,13 @@
+{
+    "name": "fake-location",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Eyk Rehbein",
+    "license": "MIT",
+    "scripts": {
+        "start": "node api/index.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
