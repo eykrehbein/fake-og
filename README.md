@@ -1,4 +1,6 @@
-# Phishing is too easy on 𝕏
+# Phishing is too easy on 𝕏 (unfortunately)
+
+I hope this gets fixed soon.
 
 Demo: [https://twitter.com/webeyk/status/1731073202346926367](https://twitter.com/webeyk/status/1731073202346926367)
 
