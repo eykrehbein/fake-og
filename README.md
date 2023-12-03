@@ -1,8 +1,8 @@
 # Phishing is too easy on 𝕏 (unfortunately)
 
-I hope this gets fixed soon.
-
 Demo: [https://twitter.com/webeyk/status/1731073202346926367](https://twitter.com/webeyk/status/1731073202346926367)
+
+This example may not be used for actions that violate the law or X's Terms of Service.
 
 ## What happens
 
